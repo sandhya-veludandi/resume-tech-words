@@ -95,3 +95,4 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * https://careercenter.indianatech.edu/wp-content/uploads/sites/15/Computer-Science-Resume-Keywords.pdf
 * https://web.augsburg.edu/strommen/websitedocs/Resume%20Buzz%20Words/computer%20science.pdf
 * https://insights.dice.com/power-verbs-for-technical-work/
+* https://github.com/CVCompiler/40-Words-to-Spice-Up-Your-Developer-Resume
