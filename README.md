@@ -1,3 +1,8 @@
+## resume-tech-words
+### Formula for Describing Work
+1. [context - what you worked on] [what you did] [impact / usefulness / value / metrics]
+2. 🌶️spice up [noun] [verb] [impact] using the list below.
+
 ### Nouns - the what
 * application
 * architecture
