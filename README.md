@@ -114,10 +114,12 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * strengthen
 ### Adjectives - bonus points
 * automatic
+* asynchronous
 * concurrent
-* efficient
 * interactive
+* intuitive
 * mobile
+* native
 * parallel
 * responsive
 * scalable
