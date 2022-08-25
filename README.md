@@ -30,65 +30,88 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * users
 * unit / integration testing
 ### Verbs - the action
-#### Built
-* create
+#### Plan
 * design
+* devise
+#### Built
+* construct
+* create
 * develop
 * engineer
+* establish
+* form
+* generate
 * implement
 * model
+* produce
 * program
 #### Change / fix
 * advance
 * alter
+* convert
 * debug
+* innovate
 * modernize
 * modify
 * patch
+* redefine
 * refactor
+* restore
 * revitalize
 * update
 #### Help
 * contribute
+* ensure
 * facilitate
+* handle
 * maintain
+* manage
+* monitor
 * support
-#### Other
+#### Working with Data
 * analyze
+* predict
+* process
+* train
+* validate
+#### Other
 * centralize
-* integrate
 * configure
 * deploy
+* integrate
+* launch
+* test
 * utilize
 ### Quantifiable Impact - the effect
-* several
-* multiple
-* limit
-* reduce
+#### Metrics
+  * how much time saved / how much increased speed of a process
+  * number of users / people affected
+  * amount of money generated or saved
+#### Solve
+* resolve
+#### Decrease
 * decrease
+* eliminate
+* limit
 * minimize
+* reduce
+#### Increase
 * maximize
-* increase
+#### Improve
 * automate
-* improve
 * enhance
 * expedite
 * optimize
 * streamline
 * strengthen
-* efficient
-* impact - metrics
-  * time / speed
-    * fast / rapid
-  * number of users / people affected
-  * money
 ### Adjectives - bonus points
+* automatic
+* concurrent
+* efficient
 * interactive
-* responsive
 * mobile
 * parallel
-* concurrent
-* automatic
+* responsive
 * scalable
 ### More Terms
 * https://wmich.edu/sites/default/files/attachments/u86/2013/IT%20Keywords.pdf
