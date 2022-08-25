@@ -90,7 +90,6 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 #### Solve
 * resolve
 #### Decrease
-* decrease
 * eliminate
 * limit
 * minimize
