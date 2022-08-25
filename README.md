@@ -1,5 +1,5 @@
 ## resume-tech-words
-While updating my resume, I wanted a list of tech terms to easily look over when I wasn't sure what to write on my resume. After viewing several Computer Science student resumes, I consolidated important keywords and categorized them based on nouns, verbs, effects, and adjectives.
+While updating my resume, I wanted a list of tech terms to easily look over when I wasn't sure what to write on my resume. These important keywords are categorized based on nouns, verbs, effects, and adjectives.
 
 1. [**context** - what you worked on] [what you **did**] [impact / usefulness / value / **metrics**]
 2. 🌶️spice up [noun] [verb] [impact] using the list below.
