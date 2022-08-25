@@ -69,6 +69,7 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * monitor
 * support
 #### Working with Data
+* aggregate
 * analyze
 * predict
 * process
@@ -80,6 +81,8 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * deploy
 * integrate
 * launch
+* migrate
+* release
 * test
 * utilize
 ### Quantifiable Impact - the effect
@@ -89,17 +92,23 @@ While updating my resume, I wanted a list of tech terms to easily look over when
   * amount of money generated or saved
 #### Solve
 * resolve
-#### Decrease
+#### Remove
 * eliminate
+* eradicate
+* prevent
+#### Decrease
 * limit
 * minimize
 * reduce
 #### Increase
+* boost
 * maximize
 #### Improve
+* accelerate
 * automate
 * enhance
 * expedite
+* fine-tune
 * optimize
 * streamline
 * strengthen
