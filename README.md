@@ -29,6 +29,17 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * clients
 * users
 * unit / integration testing
+### Adjectives
+* automatic
+* asynchronous
+* concurrent
+* interactive
+* intuitive
+* mobile
+* native
+* parallel
+* responsive
+* scalable
 ### Verbs - the action
 #### Plan
 * design
@@ -112,17 +123,6 @@ While updating my resume, I wanted a list of tech terms to easily look over when
 * optimize
 * streamline
 * strengthen
-### Adjectives
-* automatic
-* asynchronous
-* concurrent
-* interactive
-* intuitive
-* mobile
-* native
-* parallel
-* responsive
-* scalable
 ### More Terms
 * https://wmich.edu/sites/default/files/attachments/u86/2013/IT%20Keywords.pdf
 * https://careercenter.indianatech.edu/wp-content/uploads/sites/15/Computer-Science-Resume-Keywords.pdf
