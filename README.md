@@ -1,5 +1,5 @@
 ## resume-tech-words
-While updating my resume, I wanted a list of tech terms to easily look over when I wasn't sure what to write on my resume. These important keywords are categorized based on nouns, verbs, effects, and adjectives.
+This is a list of important tech keywords categorized based on nouns, verbs, effects, and adjectives. Use it to write sophisticated descriptions and replace overused terms for a more powerful delivery.
 
 1. [**context** - what you worked on] [what you **did**] [impact / usefulness / value / **metrics**]
 2. 🌶️spice up [adj] [noun] [verb] [impact] using the list below.
